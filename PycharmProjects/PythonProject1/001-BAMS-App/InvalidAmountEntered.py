@@ -1,0 +1,2 @@
+class InvalidAmountEntered(Exception):
+    pass

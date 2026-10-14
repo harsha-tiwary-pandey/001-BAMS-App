@@ -1,0 +1,2 @@
+class InvalidBankDetails(Exception):
+    pass
